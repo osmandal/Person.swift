@@ -12,5 +12,5 @@ class Person {
   }
 }
 
-let osman = Person(name: "Osman"i age: 22)
+let osman = Person(name: "Osman" age: 22)
 osman.sayHello()
